@@ -1,0 +1,5 @@
+XSL utility for Symphony CMS. Displays a list of only the months that contain entries.
+
+Requires an 'archivemonths' datasource (for a year of entries, add '1 year ago to today' as a Date filter).
+
+Requires the 'format-date' utility to output months as strings.
